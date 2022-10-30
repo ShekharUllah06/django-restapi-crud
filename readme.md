@@ -1,9 +1,4 @@
-<h1 align="center"> Basic CRUD Application</h1>
-<p align="center">
-  <a href="#" target="_blank">
-    <img alt="Django CRUD" src="res/Cover.jpg">
-  </a>
-</p>
+<h1 align="center"> Basic REST API CRUD Application</h1>
 <p>
   This project is developed for tutorial purpose.</br>
   Developed by  <a href="https://www.linkedin.com/in/mia-abdullah-shekhar-3baa8826/"  target="_blank">Mia Abdullah Shekhar</a>.
